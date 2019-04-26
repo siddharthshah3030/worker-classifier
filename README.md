@@ -1,7 +1,5 @@
 # Profession Classifier
 a simplle image classifier based on ImageAI 
-
-<br>
 Trying to classify work and professions of people  
 
 # Features!
@@ -11,7 +9,8 @@ Trying to classify work and professions of people
 You can modify the same for many other similar applications 
 ### Tech
 
-[ImageAI](https://github.com/OlafenwaMoses/ImageAI) state of the art computer vision capabilities
+[ImageAI](https://github.com/OlafenwaMoses/ImageAI) state of the art computer vision capabilities 
+<br>
  Image prediction model - Resnet ( as of now ) 
 ### Dataset 
 IdenProf (Identifiable Professionals) is a dataset that contains 11,000 pictures of 10 different professionals that humans can see and recognize their jobs by their mode of dressing. The classes of professionals whose pictures are in this dataset are as below:
